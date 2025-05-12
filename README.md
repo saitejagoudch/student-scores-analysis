@@ -1,12 +1,12 @@
-# 📊 Student Scores Analysis with Pandas
+#  Student Scores Analysis with Pandas
 
-## 📝 **Project Overview**
+##  **Project Overview**
 
 This project focuses on analyzing and managing student performance data using **Pandas** and **NumPy**. The objective is to simulate student scores for various graduate courses, perform statistical analyses, and derive meaningful insights through data manipulation techniques. The project covers data creation, modification, filtering, aggregation, and performance evaluation.
 
 ---
 
-## 📂 **Table of Contents**
+##  **Table of Contents**
 
 1. [Project Overview](#-project-overview)
 2. [Dataset Description](#-dataset-description)
@@ -33,7 +33,7 @@ Each student has scores recorded for the three courses, and additional columns a
 
 ---
 
-## 🔍 **Project Workflow**
+##  **Project Workflow**
 
 1. **Data Creation:**
 
@@ -63,7 +63,7 @@ Each student has scores recorded for the three courses, and additional columns a
 
 ---
 
-## 📈 **Key Analyses & Operations**
+##  **Key Analyses & Operations**
 
 ### 1. **Score Simulation:**
 
@@ -102,7 +102,7 @@ Each student has scores recorded for the three courses, and additional columns a
 
 ---
 
-## 💡 **Results & Insights**
+##  **Results & Insights**
 
 - **Top Performers:** Identified high-achieving students in CS 5000.
 - **Academic Distribution:** Breakdown of students across letter grades and GPA standings.
@@ -111,7 +111,7 @@ Each student has scores recorded for the three courses, and additional columns a
 
 ---
 
-## 🛠️ **Technologies Used**
+##  **Technologies Used**
 
 - **Languages:** Python
 - **Libraries:** Pandas, NumPy
@@ -119,7 +119,7 @@ Each student has scores recorded for the three courses, and additional columns a
 
 ---
 
-## 🚀 **How to Run the Project**
+##  **How to Run the Project**
 
 1. **Clone the Repository:**
 
@@ -144,7 +144,7 @@ Each student has scores recorded for the three courses, and additional columns a
 
 ---
 
-## 🤝 **Contribution Guidelines**
+##  **Contribution Guidelines**
 
 We welcome contributions to enhance this project. To contribute:
 
@@ -190,7 +190,7 @@ We’ll review your PR and provide feedback as soon as possible. Thanks for cont
 
 ---
 
-## 💡 **Conclusions & Future Work**
+##  **Conclusions & Future Work**
 
 - **Conclusions:**
 
@@ -206,7 +206,7 @@ We’ll review your PR and provide feedback as soon as possible. Thanks for cont
 
 ---
 
-## 👨‍💻 **Author**
+##  **Author**
 
 **Sai Teja Goud Chintakindi**
 
@@ -214,5 +214,5 @@ We’ll review your PR and provide feedback as soon as possible. Thanks for cont
 
 ---
 
-**If you find this project useful, please ⭐ the repository and consider contributing!** 🚀
+**If you find this project useful, please ⭐ the repository and consider contributing!**
 
