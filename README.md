@@ -21,7 +21,7 @@ This project focuses on analyzing and managing student performance data using **
 
 ---
 
-## 📊 **Dataset Description**
+## **Dataset Description**
 
 The dataset simulates student scores for three graduate courses:
 
